@@ -41,7 +41,7 @@
       institution: Ecole polytechnique
       year: 2020 - 2024
       description: 
-        - Cycle Ingénieur Polytechnicien':'' Advanced courses in Applied Mathematics, Computer Science and Physics
+        - "Cycle Ingénieur Polytechnicien: Advanced courses in Applied Mathematics, Computer Science and Physics"
     - title: French Scientific Preparatory Classes (CPGE)
       institution: Lycée Sainte-Geneviève
       year: 2018 - 2020
@@ -52,4 +52,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Jazz Piano, Music Production with FL Studio, Travel by Hitchhiking
+    - Jazz piano, music production with FL Studio, travel by hitchhiking
