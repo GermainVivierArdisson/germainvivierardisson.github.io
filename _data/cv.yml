@@ -19,8 +19,9 @@
       institution: MAGI, Polytechnique Montréal
       year: MAR-AUG 2023
       description:
-        - Worked on CF-OPT':' Counterfactual Explanations for Structured Prediction
-        - In [Thibaut Vidal](https://www.polymtl.ca/expertises/vidal-thibaut)'s team
+        - "Worked on CF-OPT: Counterfactual Explanations for Structured Prediction"
+        - In <a href="https://www.polymtl.ca/expertises/vidal-thibaut">Thibaut Vidal</a>'s team
+
 
     - title: Research & Development Intern
       institution: Quantmetry
@@ -51,4 +52,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Jazz Piano, Music Production with FL Studio, Travel by Hitchhiking
+    - Jazz Piano, Music Production with FL Studio, Travel by Hitchhiking

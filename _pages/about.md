@@ -13,9 +13,11 @@ profile:
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my website ! I am a first year PhD student, under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) (CERMICS, Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind).
+
+Before that, I graduated from [Ecole polytechnique](https://www.polytechnique.edu/) (X2020) and got a master's degree from Sorbonne Université in Learning and Algorithms ([Master M2A](https://m2a.lip6.fr/)).
