@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_linkedin.jpeg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student, under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) (CERMICS, Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind).
+Welcome to my website ! I am a first year PhD student, under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) (CERMICS, Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind).
