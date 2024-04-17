@@ -1,9 +1,11 @@
 {
-  "Information": {
+  "Information": [
+    {
     "Full Name": "Germain Vivier--Ardisson",
     "email": "viviergermain@gmail.com",
     "phone": "+33 6 24 78 71 18"
-  },
+    }
+  ],
   "experience": [
     {
       "name": "MAGI, Polytechnique Montréal",
@@ -23,7 +25,6 @@
       "summary": "Worked on CF-OPT: Counterfactual Explanations for Structured Prediction",
       "highlights": ["In Thibaut Vidal's team"]
     }
-
   ],
   "education": [
     {
