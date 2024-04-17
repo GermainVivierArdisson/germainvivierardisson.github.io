@@ -5,8 +5,28 @@
       value: Germain Vivier--Ardisson
     - name: Languages
       value: French, English
-    - name: Email
-      value: viviergermain [at] gmail [dot] com
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD
+      institution: CERMICS, Ecole des Ponts / Google DeepMind
+      year: 2024 - Now
+      description:
+        - Combinatorial Optimization Heuristics as Layers for Deep Learning
+        - Co-supervised by Axel Parmentier (CERMICS) and Mathieu Blondel (Google DeepMind)
+    - title: Research Intern
+      institution: MAGI, Polytechnique Montréal
+      year: MAR-AUG 2023
+      description:
+        - Worked on CF-OPT":" Counterfactual Explanations for Structured Prediction
+        - In Thibaut Vidal's team
+
+    - title: Research & Development Intern
+      institution: Quantmetry
+      year: JUN-AUG 2022
+      description:
+        - Benchmark and implementation of ML/OR hybrid methods
 
 - title: Education
   type: time_table
@@ -20,65 +40,15 @@
       institution: Ecole polytechnique
       year: 2020 - 2024
       description: 
-        - Cycle Ingénieur Polytechnicien
-        - Advanced courses in Applied Mathematics, Computer Science and Physics
-    - title: Scientific Preparatory Classes (CPGE)
+        - Cycle Ingénieur Polytechnicien":" Advanced courses in Applied Mathematics, Computer Science and Physics
+    - title: French Scientific Preparatory Classes (CPGE)
       institution: Lycée Sainte-Geneviève
       year: 2018 - 2020
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: PhD
-      institution: CERMICS, Ecole des Ponts / Google DeepMind
-      year: 2024 - Now
-      description:
-        - Combinatorial Optimization Heuristics as Layers for Deep Learning
-        - Co-supervised by Axel Parmentier (Ecole des Ponts) and Mathieu Blondel (Google DeepMind)
-    - title: Research Intern
-      institution: MAGI, Polytechnique Montréal
-      year: MAR-AUG 2023
-      description:
-        - Worked on CF-OPT (Counterfactual Explanations for Structured Prediction)
-        - In Thibaut Vidal's team
-
-    - title: Research & Development Intern
-      institution: Quantmetry
-      year: JUN-AUG 2022
-      description:
-        - Worked on Machine Learning / Operations Research hybrid methods
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      description: 
+        - Itensive training in Mathematics, Physics and Engineering Sciences
+        - Ranked 4th at Ecole polytechnique's nation-wide competitive entrance exam.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Jazz Piano, Music Production with FL Studio, Travel by Hitchhiking
