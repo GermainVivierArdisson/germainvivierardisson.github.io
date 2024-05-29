@@ -3,7 +3,7 @@ layout: about
 title: about
 subtititle: 1st year PhD student in Deep Learning + Combinatorial Optimization.
 permalink: /
-#subtitle: PhD student at CERMICS, Ecole des Ponts / Google DeepMind.
+subtitle: 1st year PhD student in Machine Learning and Optimization.
 
 profile:
   align: right
@@ -21,6 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website !
 
-I am a first year PhD student, under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) ([CERMICS](https://cermics-lab.enpc.fr/), Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind).
+I am a first year PhD student, under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) ([CERMICS](https://cermics-lab.enpc.fr/), Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind). My research currently focuses on the integration of inexact oracles, such as combinatorial optimization heuristics, as layers in deep learning models.
 
 Before that, I graduated from [Ecole polytechnique](https://www.polytechnique.edu/) (X2020) and got a master's degree from Sorbonne Université in Learning and Algorithms ([Master M2A](https://m2a.lip6.fr/)).
