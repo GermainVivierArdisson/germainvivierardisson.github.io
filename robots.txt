@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://germainvivierardisson.github.io/sitemap.xml
