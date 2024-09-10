@@ -7,7 +7,7 @@ subtitle: 1st year PhD student in Machine Learning and Optimization.
 
 profile:
   align: right
-  image: photo_linkedin.jpeg
+  image: ICML-1616.jpg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
