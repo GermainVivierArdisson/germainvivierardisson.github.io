@@ -1,12 +1,20 @@
 - title: Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: CERMICS, Ecole des Ponts / Google DeepMind
-      year: 2024 - Now
+    - title: Co-Advised PhD Student
+      institution: Google Deepmind & CERMICS, Ecole des Ponts
+      year: JAN 2025 - Now
       description:
-        - Combinatorial Optimization Heuristics as Layers for Deep Learning
-        - Co-supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> (CERMICS) and <a href="https://mblondel.org/">Mathieu Blondel</a> (Google DeepMind)
+        - Working on Machine Learning and Optimization.
+        - Co-supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
+
+    - title: Research Intern
+      institution: CERMICS, Ecole des Ponts
+      year: APR-AUG 2024
+      description:
+        - Worked on <a href="https://arxiv.org/abs/2505.14240">Learning with Local Search MCMC Layers</a>
+        - Co-supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
+
     - title: Research Intern
       institution: MAGI, Polytechnique Montréal
       year: MAR-AUG 2023

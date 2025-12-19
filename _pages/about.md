@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-subtititle: 1st year PhD student in Deep Learning + Combinatorial Optimization.
+subtititle: 1st year PhD student in Machine Learning and Optimization.
 permalink: /
 subtitle: 1st year PhD student in Machine Learning and Optimization.
 
