@@ -2,32 +2,27 @@
   type: time_table
   contents:
     - title: Co-Advised PhD Student
-      institution: Google Deepmind & CERMICS, Ecole des Ponts
+      institution: Google DeepMind & CERMICS, Ecole des Ponts
       year: JAN 2025 - Now
       description:
-        - Working on Machine Learning and Optimization.
-        - Co-supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
+        - Supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
 
     - title: Research Intern
       institution: CERMICS, Ecole des Ponts
       year: APR-AUG 2024
       description:
-        - Worked on <a href="https://arxiv.org/abs/2505.14240">Learning with Local Search MCMC Layers</a>
-        - Co-supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
+        - Supervised by <a href="https://axelparmentier.github.io/">Axel Parmentier</a> and <a href="https://mblondel.org/">Mathieu Blondel</a>
 
     - title: Research Intern
       institution: MAGI, Polytechnique Montréal
       year: MAR-AUG 2023
       description:
-        - Worked on <a href="https://arxiv.org/abs/2405.18293">"CF-OPT:" Counterfactual Explanations for Structured Prediction</a>
-        - In <a href="https://www.polymtl.ca/expertises/vidal-thibaut">Thibaut Vidal</a>'s team
+        - Superbised by <a href="https://www.polymtl.ca/expertises/vidal-thibaut">Thibaut Vidal</a>.
 
 
     - title: Research & Development Intern
       institution: Quantmetry
       year: JUN-AUG 2022
-      description:
-        - Benchmark and implementation of ML/OR hybrid methods
 
 - title: Education
   type: time_table
@@ -46,7 +41,6 @@
       institution: Lycée Sainte-Geneviève
       year: 2018 - 2020
       description: 
-        - Itensive training in Mathematics, Physics and Engineering Sciences
         - Ranked 4th at Ecole polytechnique's nation-wide competitive entrance exam
 
 - title: Other Interests
