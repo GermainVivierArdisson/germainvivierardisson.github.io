@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-06-03 07:59:00-0400
+inline: true
+related_posts: false
+---
+
+:tada: New pre-print out ! [Regularized Large Neighborhood Search](https://arxiv.org/abs/2606.02294)
