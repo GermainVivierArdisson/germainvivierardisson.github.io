@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) has been accepted to TMLR with a Featured Certification ! :tada:
+:tada: Our paper [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) has been accepted to TMLR with a _Featured Certification_ ! :tada:
 
