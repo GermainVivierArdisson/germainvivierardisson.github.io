@@ -23,4 +23,4 @@ Welcome to my personal website !
 
 I am a second year PhD student under the supervision of [Axel Parmentier](https://axelparmentier.github.io/) ([CERMICS](https://cermics-lab.enpc.fr/), Ecole des Ponts) and [Mathieu Blondel](https://mblondel.org/) (Google DeepMind). My research focuses on interfacing combinatorial optimization and ML methods through regularization.
 
-Before that, I graduated from [Ecole polytechnique](https://www.polytechnique.edu/) (X2020) and got a master's degree from Sorbonne Université in Learning and Algorithms ([Master M2A](https://m2a.lip6.fr/)).
+Before that, I graduated from [Ecole polytechnique](https://www.polytechnique.edu/) (X2020) and got a master's degree from Sorbonne Université in Learning and Algorithms (Master M2A).
