@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I gave a 15min talk at the [DiffCoALG workshop @ NeurIPS 2025](https://sites.google.com/corp/view/diffcoalg2025) to present our [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) paper !
+I gave a 15min talk at the [DiffCoALG workshop @ NeurIPS 2025](https://sites.google.com/corp/view/diffcoalg2025) to present our [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) paper.

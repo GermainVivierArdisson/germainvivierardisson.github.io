@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: New pre-print out ! [Regularized Large Neighborhood Search](https://arxiv.org/abs/2606.02294)
+New pre-print out: [Regularized Large Neighborhood Search](https://arxiv.org/abs/2606.02294)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: New pre-print out ! [Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775)
+New pre-print out: [Differentiable Knapsack and Top-k Operators via Dynamic Programming](https://arxiv.org/abs/2601.21775)
