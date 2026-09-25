@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](https://arxiv.org/abs/2512.15605) has been accepted to ICML 2026 ! :tada:
+:tada: Our paper [Autoregressive Language Models are Secretly Energy-Based Models: Insights into the Lookahead Capabilities of Next-Token Prediction](https://arxiv.org/abs/2512.15605) has been accepted at **ICML 2026** ! :tada:
