@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) has been accepted to **TMLR** with :trophy: **_Featured_** and **Journal-to-Conference** (**_J2C_**) **Certifications** :trophy: !
+:tada: Our paper [Learning with Local Search MCMC Layers](https://arxiv.org/abs/2505.14240) has been accepted to **TMLR** with :trophy: **_Featured_** and :trophy: **_Journal-to-Conference_** **(J2C)** Certifications ! :tada:
 
